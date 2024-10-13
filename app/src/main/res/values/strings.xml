@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AMToon</string>
+    <string-array name="mangatypearray">
+        <item>best_action_manhwa</item>
+        <item>best_adventure_manhwa</item>
+        <item>best_fantasy_manhwa</item>
+    </string-array>
+</resources>
